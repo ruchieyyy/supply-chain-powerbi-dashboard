@@ -32,20 +32,17 @@ The objective of this project is to transform raw supply chain data into actiona
 
 ## Dashboard Screenshots
 
-### Main Dashboard
+### Supply Chain Dashboard Overview
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
-### Shipment Analysis
-![Shipment Analysis](screenshots/shipment-analysis.png)
-
-### Sales Performance
+### Sales & Delivery Performance Analysis
 ![Sales Analysis](screenshots/sales-analysis.png)
 
-### Regional Insights
+### Regional Performance & Customer Insights
 ![Regional Performance](screenshots/regional-performance.png)
 
-### Delayed Orders Analysis
-![Delayed Orders](screenshots/delayed-orders.png)
+### Interactive KPI & Operational Dashboard
+![Interactive Dashboard](screenshots/interactive-filtering.png)
 
 ---
 
