@@ -36,13 +36,13 @@ The objective of this project is to transform raw supply chain data into actiona
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ### Sales & Delivery Performance Analysis
-![Sales Analysis](screenshots/sales-analysis.png)
+![Sales Analysis](screenshots/sales-analysis.jpeg)
 
 ### Regional Performance & Customer Insights
-![Regional Performance](screenshots/regional-performance.png)
+![Regional Performance](screenshots/regional-performance.jpeg)
 
 ### Interactive KPI & Operational Dashboard
-![Interactive Dashboard](screenshots/interactive-filtering.png)
+![Interactive Dashboard](screenshots/interactive-filtering.jpeg)
 
 ---
 
